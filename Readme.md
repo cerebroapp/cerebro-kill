@@ -1,5 +1,7 @@
 # cerebro-kill
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/KELiON/cerebro-kill.svg)](https://greenkeeper.io/)
+
 > [Cerebro](http://www.cerebroapp.com) plugin to kill process by name
 
 ![](screenshot.png)
